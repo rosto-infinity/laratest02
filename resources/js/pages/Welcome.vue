@@ -37,7 +37,7 @@ import { Head, Link } from '@inertiajs/vue3';
             class="duration-750 starting:opacity-0 flex w-full items-center justify-center opacity-100 transition-opacity lg:grow">
             <div class="bg-gray-100 py-8">
                 <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h1 class="text-4xl text-green-600 pb-4">Prof rostand lele</h1>
+                    <h1 class="text-4xl text-green-600 pb-4">Prof Zaffo rostand lele</h1>
                     <h2 class="text-3xl font-bold text-gray-800 mb-6">La stack VITL</h2>
                     <div class="space-y-6">
                         <div>
